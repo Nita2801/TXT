@@ -1,0 +1,5 @@
+Course outline
+  Skills":
+   1) theory Of testing: types,methods,bug reports,documentatoin;
+   2) hard skills: Dev tools,API,SQL,Terminal,Python,Git,HTTP;
+   3) soft skills: attention to details,communication skills,problem-solving skills

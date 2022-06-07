@@ -1,0 +1,6 @@
+My preferences
+Favourite Movie : "Spirited away";
+Favourite Show : "Stranger things";
+Favourite Food : shawarma;
+Favourite Season : Winter;
+Dream Country : Canada
