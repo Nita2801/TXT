@@ -1,0 +1,5 @@
+Personal data
+Full name: Tatyana Vladimirovna Nikitenko;
+Age: 29;
+Number Of pets: 3;
+Salary requirement: above 20000
