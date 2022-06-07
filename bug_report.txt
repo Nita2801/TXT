@@ -1,1 +1,37 @@
+Bug Report
+		ID: 123
+    
+		Title: Login page-login button leads to 404 error  after clicking on it
+    
+		Project: Online Cinema
+    
+		Product Build: 4.2.1
+    
+		Severity: blocker
+    
+		Priority : high
+    
+		Status : assigned
+    
+		Reporter : Tatyana Nikitenko
+    
+    Assigned to : Vladislav Petrov
+    
+		Reproducibility: always
+    
+		Environment : OS - Windows 10 LTSC 64-bit , Browser - Google Chrome 102.0.5005.62 (Official Build) (64-bit)
+    
+		Preconditions : 
+       link : http : // example.com
+			 login: lina21
+			 password : qwert123
+		
+		Description":
+		 Step to reproduce : 1 . open the login page http://example.com 
+                         2. fill in the login form
+                         3. click the login button 
+			Actual result : the login button leads to 404 error after clicking on it
+			Expected result : the page is successfully uploaded after clicking on the login button
+      
+		 Attachment
 
